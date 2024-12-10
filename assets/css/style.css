@@ -6,6 +6,7 @@
 }
 
 .slct {
+    text-align: center;
     margin-top: 25px;
     color: white;
     display: flex;
